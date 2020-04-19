@@ -12,20 +12,33 @@
     "@react-navigation/native": "^5.1.5",
     "@react-navigation/stack": "^5.2.10",
     "expo": "~37.0.3",
+<<<<<<< HEAD
     "expo-av": "~8.1.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
     "react-native-double-tap": "^1.0.1",
+=======
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
+>>>>>>> 379bf8c8d3828d126655b60e86f856fe3e1dc1a0
     "react-native-gesture-handler": "~1.6.0",
     "react-native-reanimated": "~1.7.0",
     "react-native-safe-area-context": "0.7.3",
     "react-native-screens": "~2.2.0",
+<<<<<<< HEAD
     "react-native-shake": "^3.4.0",
     "react-native-sound-level": "^1.1.5",
     "react-native-swipe-gestures": "^1.0.5",
     "react-native-tts": "^3.1.1",
     "react-native-web": "~0.11.7"
+=======
+    "react-native-sound-level": "^1.1.5",
+    "react-native-tts": "^3.1.1",
+    "react-native-web": "~0.11.7",
+    "expo-av": "~8.1.0"
+>>>>>>> 379bf8c8d3828d126655b60e86f856fe3e1dc1a0
   },
   "devDependencies": {
     "babel-preset-expo": "~8.1.0",
